@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@backstage/codemods": "^0.1.44"
+    "@backstage/codemods": "^0.1.44",
+    "jscodeshift": "^0.14.0"
   }
 }
